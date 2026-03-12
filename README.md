@@ -1,6 +1,6 @@
 # 👩‍💻 Andriele Ramos 
 
-Me chamo Andriele Ramos, tenho 33 anos e sou natural do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na UNICARIOCA. Sou apaixonada por tecnologia e e tenho interesse em atuar na área de **Análise de Dados**.  Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilidades em **dados, programação e visualização de informações**.
+Me chamo Andriele Ramos, tenho 33 anos e sou natural do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na UNICARIOCA. Sou apaixonada por tecnologia e tenho interesse em atuar na área de **Análise de Dados**.  Atualmente estou desenvolvendo projetos práticos para aprimorar minhas habilidades em **dados, programação e visualização de informações**.
 
 
 <p align="left">
