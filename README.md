@@ -12,7 +12,7 @@ Me chamo Andriele Ramos, tenho 33 anos e sou natural do Rio de Janeiro. Estou cu
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas
 - 📊 Foco em Análise de Dados
-- 📚 Estudando Python, Power BI, Excel e Estatística
+- 📚 Estudando SQL, Power BI, Excel e Estatística
 - 🌱 Sempre aprendendo e desenvolvendo novos projetos
 
 --- 
